@@ -37,15 +37,18 @@ resp = resp.upper()
 
 if resp == "S":
     envio = True
+    envioC = "Incluye envio gratis."
 elif resp == "N":
     envio = False
+    envioC = "No incluye envio."
 else:
     print("Valor incorrecto.")
 
-print(f'Nombre', nombre)
-print(f'id:', id)
-print(f'Precio:', precio)
-if envio:
-    print("Incluye envio gratis.")
-else:
-    print("No invluye envio gratis.")
+print(f'''
+    
+    Nombre: {nombre}
+    Id: {id}
+    Precio: {precio}
+    Envío: {envioC}
+    
+''')
