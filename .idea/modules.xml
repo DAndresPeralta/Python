@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Practica.iml" filepath="$PROJECT_DIR$/.idea/Practica.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Teoria2/.idea/Teoria2.iml" filepath="$PROJECT_DIR$/../Teoria2/.idea/Teoria2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Teoria3/.idea/Teoria3.iml" filepath="$PROJECT_DIR$/../Teoria3/.idea/Teoria3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Teoria4(While)/.idea/Teoria4(While).iml" filepath="$PROJECT_DIR$/../Teoria4(While)/.idea/Teoria4(While).iml" />
     </modules>
   </component>
 </project>
